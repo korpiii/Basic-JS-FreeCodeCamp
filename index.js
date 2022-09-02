@@ -1,3 +1,1 @@
-// in-line comment
-/*multi-line
-comment */
+var myName;
